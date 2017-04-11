@@ -1,0 +1,5 @@
+content
+config.js
+config.example.js
+node_modules
+*.zip
